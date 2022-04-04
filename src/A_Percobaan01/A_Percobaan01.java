@@ -1,3 +1,5 @@
+package A_Percobaan01;
+
 public class A_Percobaan01 {
     //class global
     public int nrp;
